@@ -1,0 +1,14 @@
+c:\users\den\documents\visual studio 2015\Projects\dzEmpi\dzEmpi\bin\Debug\dzEmpi.exe.config
+c:\users\den\documents\visual studio 2015\Projects\dzEmpi\dzEmpi\bin\Debug\dzEmpi.exe
+c:\users\den\documents\visual studio 2015\Projects\dzEmpi\dzEmpi\bin\Debug\dzEmpi.pdb
+c:\users\den\documents\visual studio 2015\Projects\dzEmpi\dzEmpi\obj\Debug\dzEmpi.csprojResolveAssemblyReference.cache
+c:\users\den\documents\visual studio 2015\Projects\dzEmpi\dzEmpi\obj\Debug\MainWindow.g.cs
+c:\users\den\documents\visual studio 2015\Projects\dzEmpi\dzEmpi\obj\Debug\App.g.cs
+c:\users\den\documents\visual studio 2015\Projects\dzEmpi\dzEmpi\obj\Debug\dzEmpi_MarkupCompile.cache
+c:\users\den\documents\visual studio 2015\Projects\dzEmpi\dzEmpi\obj\Debug\dzEmpi_MarkupCompile.lref
+c:\users\den\documents\visual studio 2015\Projects\dzEmpi\dzEmpi\obj\Debug\MainWindow.baml
+c:\users\den\documents\visual studio 2015\Projects\dzEmpi\dzEmpi\obj\Debug\dzEmpi.g.resources
+c:\users\den\documents\visual studio 2015\Projects\dzEmpi\dzEmpi\obj\Debug\dzEmpi.Properties.Resources.resources
+c:\users\den\documents\visual studio 2015\Projects\dzEmpi\dzEmpi\obj\Debug\dzEmpi.csproj.GenerateResource.Cache
+c:\users\den\documents\visual studio 2015\Projects\dzEmpi\dzEmpi\obj\Debug\dzEmpi.exe
+c:\users\den\documents\visual studio 2015\Projects\dzEmpi\dzEmpi\obj\Debug\dzEmpi.pdb

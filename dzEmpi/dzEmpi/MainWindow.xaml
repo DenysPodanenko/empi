@@ -1,0 +1,22 @@
+﻿<Window x:Class="dzEmpi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:dzEmpi"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="725">
+    <Grid>
+        <Button x:Name="btnOpenDir" Content="Open Directory" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="100" Click="btnOpenDir_Click"/>
+        <Label x:Name="lblDirectory" Content="Current Directory" HorizontalAlignment="Left" Margin="129,10,0,0" VerticalAlignment="Top" Width="578"/>
+        <Label x:Name="lblTitleLOC" Content="LOC" HorizontalAlignment="Left" Margin="129,64,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblLOC" Content="Value" HorizontalAlignment="Left" Margin="187,64,0,0" VerticalAlignment="Top" Width="152"/>
+        <Label x:Name="lblTitleNOM" Content="NOM" HorizontalAlignment="Left" Margin="129,90,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblNOM" Content="Value" HorizontalAlignment="Left" Margin="187,90,0,0" VerticalAlignment="Top" Width="152"/>
+        <Label x:Name="lblTitleNOC" Content="NOC" HorizontalAlignment="Left" Margin="129,116,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblNOC" Content="Value" HorizontalAlignment="Left" Margin="187,116,0,0" VerticalAlignment="Top" Width="152"/>
+        <Label x:Name="lblTitleNOP" Content="NOP" HorizontalAlignment="Left" Margin="129,142,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblNOP" Content="Value" HorizontalAlignment="Left" Margin="187,142,0,0" VerticalAlignment="Top" Width="152"/>
+
+    </Grid>
+</Window>
